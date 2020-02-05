@@ -1,10 +1,10 @@
 # Hammer Beat
 
 ## Created by 
-Anna Bressan (Art 2D) 
-Guillaume André (Game Design, Art 2D)
-Kévin Roussel (Development) 
-Tom Laporte (Game Design, Art 2D, Music)
+* Anna Bressan (Art 2D) 
+* Guillaume André (Game Design, Art 2D)
+* Kévin Roussel (Development) 
+* Tom Laporte (Game Design, Art 2D, Music)
 
 ## FR
 
