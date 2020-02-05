@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0592ec21e591064ba796e1872fdd6bd, type: 3}
+  m_Name: Music_2
+  m_EditorClassIdentifier: 
+  _bpm: 84
+  _music: {fileID: 8300000, guid: d5ef73f29130c6849bb4756ab26d5038, type: 3}
+  _midiFileName: 84Hammerbeat_Lofi_Music_2_mid
+  _offset: 1000
